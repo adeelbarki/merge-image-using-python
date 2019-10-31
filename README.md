@@ -2,7 +2,7 @@
 
 
 * To run this program, python and pip should be installed
-* Unzip attached file
+* Clone this repository
 * Open terminal and goto the project folder
 * Run command:
     `pip install -r requirements.txt`
